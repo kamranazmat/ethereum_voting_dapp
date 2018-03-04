@@ -1,0 +1,18 @@
+{
+  "name": "ethereum_voting_dapp",
+  "version": "0.0.1",
+  "description": "Ethereum Voting Decentralized Application",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kamranazmat/ethereum_voting_dapp.git"
+  },
+  "author": {
+    "name": "Kamran Azmat",
+    "email": "azmat.kamran@gmail.com"
+  },
+  "dependencies": {
+    "ganache-cli": "^6.0.3",
+    "web3": "0.20.1",
+    "solc": "^0.4.20"
+  }
+}
